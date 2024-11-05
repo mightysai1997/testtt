@@ -390,6 +390,21 @@
       <artifactId>guava</artifactId>
     </dependency>
     <dependency>
+        <groupId>org.webjars.bower</groupId>
+        <artifactId>angular-base64-upload</artifactId>
+        <version>0.0.9</version>
+    </dependency>
+    <dependency>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-web</artifactId>
+        <version>5.6.3</version>
+    </dependency>
+    <dependency>
+        <groupId>org.webjars.npm</groupId>
+        <artifactId>markdown-to-jsx</artifactId>
+        <version>6.6.6</version>
+    </dependency>
+    <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
     </dependency>
